@@ -1,0 +1,13 @@
+[user]
+	eleve1 = eleve1
+[remote "master"]
+	url = https://github.com/keyos7824/formation1
+	fetch = +refs/heads/*:refs/remotes/master/*
+[branch "master"]
+	remote = .
+	merge = refs/heads/master
+[credential "https://github.com/keyos7824/formation1"]
+        username=keyos7824
+        password=jnajlovik1234$
+
+
